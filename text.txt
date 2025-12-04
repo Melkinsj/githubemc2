@@ -1,1 +1,1 @@
-city banga,lore
+city chennai
